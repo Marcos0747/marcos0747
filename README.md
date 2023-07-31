@@ -12,4 +12,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marcos0747&theme=vue-dark&show_icons=true&locale=en&layout=compact" alt="marcos0747" /></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=marcos0747&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="marcos0747 /> </p>
+<h2 align="center">Skills</h2>
+    <img src="https://skillicons.dev/icons?i=git,js,md,mongodb,nodejs,vscode" />
+</div>
