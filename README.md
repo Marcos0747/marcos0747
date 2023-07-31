@@ -3,7 +3,7 @@
 # 👋¡Hola!👋, Soy Marcos
 
 <div>
-  <a href="https://github.com/Krast3r"><img src="https://img.shields.io/badge/-Github-000000?style=for-the-badge&label-color=000000&logo=Github&logoColor=white&link=https://github.com/marcos0747" alt="Discord" /></a>
+  <a href="https://github.com/marcos0747"><img src="https://img.shields.io/badge/-Github-000000?style=for-the-badge&label-color=000000&logo=Github&logoColor=white&link=https://github.com/marcos0747" alt="Discord" /></a>
   <a href="https://discord.com/users/947156433634488360"><img src="https://img.shields.io/badge/-Discord-000000?style=for-the-badge&label-color=000000&logo=discord&logoColor=white&link=https://discord.com/users/1030789185818333264" /></a>
 </div>
 
