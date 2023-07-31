@@ -6,7 +6,7 @@
 <h3 align="left">Languajes que estoy aprendiendo:</h3>
 
 
-<img src="https://img.shields.io/badge/Node-000?style=for-the-badge&logo=node.js&logoColor=green" />
+<img src="https://img.shields.io/badge/Node-000?style=for-the-badge&logo=node.js&logoColor=green" /> <img align="left" alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
 
 
 
