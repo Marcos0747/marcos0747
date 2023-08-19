@@ -4,7 +4,7 @@
 
 <div>
   <a href="https://github.com/marcos0747"><img src="https://img.shields.io/badge/-Github-000000?style=for-the-badge&label-color=000000&logo=Github&logoColor=white&link=https://github.com/marcos0747" alt="Discord" /></a>
-  <a href="https://discord.com/users/1030789185818333264"><img src="https://img.shields.io/badge/-Discord-000000?style=for-the-badge&label-color=000000&logo=discord&logoColor=white&link=https://discord.com/users/1030789185818333264" /></a>
+  <a href="https://discord.com/users/247447544592859136"><img src="https://img.shields.io/badge/-Discord-000000?style=for-the-badge&label-color=000000&logo=discord&logoColor=white&link=https://discord.com/users/247447544592859136" /></a>
 </div>
 
 
