@@ -22,5 +22,5 @@
 <div align="auto" style="display: inline-center;">
   <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=marcos0747&show_icons=true&theme=radical" alt="marcos0747" /></p>
   <h2 align="center">Skills</h2>
-    <img src="https://skillicons.dev/icons?i=js,md,mongodb,nodejs,vscode" />
+    <img src="https://skillicons.dev/icons?i=js,md,mongodb,nodejs,vscode,py" />
 </div>
