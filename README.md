@@ -10,7 +10,7 @@
 
 
 
-<h3 align="left">Languajes que estoy aprendiendo:</h3>
+<h3 align="left">Lenguajes que estoy aprendiendo:</h3>
 
 
 <img align="mid" alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
